@@ -15,9 +15,7 @@
   ~ specific language governing permissions and limitations
   ~ under the License.
   --%>
-  
   <%@ page import="java.io.File" %>
-
   <%@ include file="includes/localize.jsp" %>
 <jsp:directive.include file="includes/init-url.jsp"/>
 
