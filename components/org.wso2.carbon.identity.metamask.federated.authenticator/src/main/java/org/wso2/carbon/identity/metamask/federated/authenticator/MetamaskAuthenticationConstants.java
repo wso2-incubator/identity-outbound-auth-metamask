@@ -18,6 +18,9 @@
 
 package org.wso2.carbon.identity.metamask.federated.authenticator;
 
+/**
+ * Constants of Metamask Authenticator
+ */
 public class MetamaskAuthenticationConstants {
 
     public static final String LOGIN_TYPE = "metamask";
